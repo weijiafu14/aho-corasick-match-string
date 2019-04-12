@@ -1,0 +1,28 @@
+{
+  "name": "aho-corasick-search",
+  "version": "1.0.0",
+  "description": "aho-corasick for matching string",
+  "main": "aho-corasick-search.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weijiafu14/aho-corasick-match-string.git"
+  },
+  "keywords": [
+    "aho-corasick",
+    "string",
+    "matching"
+  ],
+  "author": "wjf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weijiafu14/aho-corasick-match-string/issues"
+  },
+  "homepage": "https://github.com/weijiafu14/aho-corasick-match-string#readme",
+  "dependencies": {
+    "aho-corasick-machine": "^1.0.1",
+    "array-trie": "^1.0.0"
+  }
+}
